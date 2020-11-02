@@ -8,6 +8,7 @@
 ### Reproducing Submission
 To reproduct my submission without retrainig
 * Download pretrained models from model folder
+* Run the program in ```CS_T0828_HW1.ipynb```
 
 ### Dataset Preparation
 Traning and Testing images need to be placed in different folders according to the classes
@@ -24,3 +25,8 @@ CS_T0828_HW1
     | ...
     | ...
 ```
+
+### Training
+
+
+### Inference
