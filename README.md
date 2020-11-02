@@ -33,4 +33,4 @@ Download pretrained models from model folder
 Use Resnet50 as my training model
 
 ### Inference
-To inference all models, simply run 
+To inference all models, simply run ```CS_T0828_HW1.ipynb``` from **Start inference**
