@@ -6,9 +6,10 @@
 * Pytorch
 
 ### Reproducing Submission
-To reproduct my submission without retrainig
-* Download pretrained models from model folder
-* Run the program in ```CS_T0828_HW1.ipynb```
+To reproduct my submission without retrainig, do the following steps:
+1. Dataset Preparation
+2. Download Pretrained models
+3. Inference
 
 ### Dataset Preparation
 Traning and Testing images need to be placed in different folders according to the classes
@@ -25,8 +26,11 @@ CS_T0828_HW1
     | ...
     | ...
 ```
+### Download Pretrained models
+Download pretrained models from model folder
 
 ### Training
-
+Use Resnet50 as my training model
 
 ### Inference
+To inference all models, simply run 
